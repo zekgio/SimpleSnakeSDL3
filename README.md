@@ -17,7 +17,7 @@ A minimal version of the classic snake game written in modern C++ using SDL3 for
 
 ### Instructions (Terminal)
 ```bash
-git clone [https://github.com/zekgio/SimpleSnakeSDL3.git](https://github.com/zekgio/SimpleSnakeSDL3.git)
+git clone https://github.com/zekgio/SimpleSnakeSDL3.git
 cd SimpleSnakeSDL3
 cmake --preset x64-debug
 cmake --build --preset x64-debug
