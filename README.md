@@ -2,7 +2,7 @@
 
 A minimal version of the classic snake game written in modern C++ using SDL3 for rendering.
 
-
+![Animazione](https://github.com/user-attachments/assets/967f0197-2da4-4a6c-a185-63a0377128b3)
 
 ## Features
 - **C++20 Standard**
