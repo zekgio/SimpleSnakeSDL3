@@ -21,4 +21,4 @@ git clone https://github.com/zekgio/SimpleSnakeSDL3.git
 cd SimpleSnakeSDL3
 cmake --preset x64-debug
 cmake --build --preset x64-debug
-./out/build/x64-debug/SimpleSnakeSDL3.exe
+./out/build/x64-debug/SimpleSnakeSDL3.exe  (or .\out\build\x64-debug\SimpleSnakeSDL3.exe if on Windows)
